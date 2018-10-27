@@ -2,6 +2,10 @@
 
 ![all_in_one](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)
 
+The original image (before automatic coloring) is:
+
+![b](https://github.com/lllyasviel/style2paints/raw/master/imgs/sample.jpg)
+
 # Try it on your own!
 
 Style2Paints V4 is extremely easy to use! You can be a style2paints expert in 10 minutes!
@@ -18,19 +22,19 @@ Or you may find lots of anime line arts from some where like these:
 
 *(Be careful about copyright issues)*
 
-https://www.pinterest.jp/810115sheepmea9/uncolored-anime-line-art/?lp=true
+[https://www.pinterest.jp/810115sheepmea9/uncolored-anime-line-art/?lp=true](https://www.pinterest.jp/810115sheepmea9/uncolored-anime-line-art/?lp=true)
 
-https://www.pinterest.jp/leonardohohofdp/lineart-anime/?lp=true
+[https://www.pinterest.jp/leonardohohofdp/lineart-anime/?lp=true](https://www.pinterest.jp/leonardohohofdp/lineart-anime/?lp=true)
 
-https://www.pinterest.jp/professor_moore/anime-line-art/?lp=true
+[https://www.pinterest.jp/professor_moore/anime-line-art/?lp=true](https://www.pinterest.jp/professor_moore/anime-line-art/?lp=true)
 
-https://www.pinterest.jp/ssronniess/anime-lineart/?lp=true
+[https://www.pinterest.jp/ssronniess/anime-lineart/?lp=true](https://www.pinterest.jp/ssronniess/anime-lineart/?lp=true)
 
-https://www.pinterest.jp/XxZinnisterxX/anime-sketch/?lp=true
+[https://www.pinterest.jp/XxZinnisterxX/anime-sketch/?lp=true](https://www.pinterest.jp/XxZinnisterxX/anime-sketch/?lp=true)
 
-https://www.pinterest.jp/sour1854/anime-sketch/?lp=true
+[https://www.pinterest.jp/sour1854/anime-sketch/?lp=true](https://www.pinterest.jp/sour1854/anime-sketch/?lp=true)
 
-https://www.pinterest.jp/hanisah0078/anime-sketch/?lp=true
+[https://www.pinterest.jp/hanisah0078/anime-sketch/?lp=true](https://www.pinterest.jp/hanisah0078/anime-sketch/?lp=true)
 
 
 Then you may upload the image:

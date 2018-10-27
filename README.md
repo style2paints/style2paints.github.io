@@ -6,6 +6,8 @@ The original image (before automatic coloring) is:
 
 ![b](https://github.com/lllyasviel/style2paints/raw/master/imgs/sample.jpg)
 
+**[Official Twitter](https://twitter.com/IlIIlIIIllIllII)**
+
 # Try it on your own!
 
 Style2Paints V4 is extremely easy to use! You can be a style2paints expert in 10 minutes!

@@ -1,6 +1,6 @@
 ﻿# Style2Paints V4 Tutorial
 
-![all_in_one](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)
+[![all_in_one](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)
 
 The original image (before automatic coloring) is:
 

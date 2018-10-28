@@ -65,9 +65,7 @@ You can click the processing button to update the result.
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/8.jpg)
 
-**Tips 1:** *In this tutorial, we will not add these points because we want to see 'AI automatic coloring'.*
-
-**Tips 2:** *You can use ALT key to pick color anywhere in the canvas. This is very important.*
+**You can use ALT key to pick color anywhere in the canvas. This is very important.**
 
 You can also check the flat solid basic color (固有色)：
 
@@ -94,6 +92,8 @@ Then, process:
 The result you will get:
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/14.jpg)
+
+If you want to modify these rendering, you can use **circles** to **add** light and shadow, and use **cross** to **remove** light and shadow.
 
 Then, download:
 
@@ -141,17 +141,15 @@ You can communicate with AI using these two hints:
 
 *These two signals are borrowed from Physics, where scientists use these two signals to describe magnetic field.*
 
-You can mark **foreground** with circles, while marking **background** with crosses. 
+You can use **circles** to **add** light and shadow.
+
+You can use **cross** to **remove** light and shadow.
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/18.jpg)
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/19.jpg)
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/20.jpg)
-
-**Note that you do NOT need to mask anything in most cases.** 
-
-Our AI will do all things for you. You only need to give some hints when the AI is wrong.
 
 # Save and load
 

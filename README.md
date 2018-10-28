@@ -135,11 +135,7 @@ Basicly speaking, you can control the color and the direction of the light in th
 
 We also provide more possibility for you to change the light and shadow.
 
-You can communicate with AI using these two hints:
-
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/17.jpg)
-
-*These two signals are borrowed from Physics, where scientists use these two signals to describe magnetic field.*
 
 You can use **circles** to **add** light and shadow.
 

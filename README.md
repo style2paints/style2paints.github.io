@@ -10,7 +10,7 @@ The original image (before automatic coloring) is:
 
 ● [Try it on your own!](#stry)
 
-● [Control the Rendering Mode!](#scon)
+● [Control the Rendering Mode!](#scon) (HOT) (NEW)
 
 ● [Save and load!](#sl)
 

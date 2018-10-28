@@ -6,8 +6,6 @@ The original image (before automatic coloring) is:
 
 ![b](https://github.com/lllyasviel/style2paints/raw/master/imgs/sample.jpg)
 
-**[Official Twitter](https://twitter.com/IlIIlIIIllIllII)**
-
 # Menu
 
 ● [Try it on your own!](#stry)
@@ -15,6 +13,8 @@ The original image (before automatic coloring) is:
 ● [Control the Rendering Mode!](#scon)
 
 ● [Save and load!](#sl)
+
+● [Official Twitter!](https://twitter.com/IlIIlIIIllIllII)
 
 ● [FAQ](#faq)
 

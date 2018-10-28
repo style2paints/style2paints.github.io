@@ -8,7 +8,19 @@ The original image (before automatic coloring) is:
 
 **[Official Twitter](https://twitter.com/IlIIlIIIllIllII)**
 
+# Menu
+
+[Try it on your own!](#stry)
+
+[Control the Rendering Mode!](#scon)
+
+[Save and load!](#sl)
+
+[FAQ](#faq)
+
 # Try it on your own!
+
+<span id="stry"></span>
 
 Style2Paints V4 is extremely easy to use! You can be a style2paints expert in 10 minutes!
 
@@ -127,7 +139,9 @@ Flatten solid basic color:
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a6.jpg)
 
-# Control the Rendering Mode
+# Control the Rendering Mode!
+
+<span id="scon"></span>
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/12.jpg)
 
@@ -147,7 +161,9 @@ You can use **cross** to **remove** light and shadow.
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/20.jpg)
 
-# Save and load
+# Save and load!
+
+<span id="sl"></span>
 
 You can save and load your hint points with these button:
 
@@ -164,6 +180,8 @@ And you can load these codes by clicking 'load' and pasting these codes:
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/23.jpg)
 
 # FAQ
+
+<span id="faq"></span>
 
 Q: Why I can not export my results?
 

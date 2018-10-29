@@ -161,6 +161,8 @@ You can use **cross** to **remove** light and shadow.
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/20.jpg)
 
+![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/201.jpg)
+
 <span id="sl"></span>
 
 # Save and load!

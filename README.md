@@ -12,6 +12,8 @@ The original image (before automatic coloring) is:
 
 ● [Control the Rendering Mode!](#scon) (HOT) (NEW)
 
+● [Careful mode and careless mode!](#care) (NEW)
+
 ● [Save and load!](#sl)
 
 ● [Official Twitter!](https://twitter.com/IlIIlIIIllIllII)
@@ -162,6 +164,14 @@ You can use **cross** to **remove** light and shadow.
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/20.jpg)
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/201.jpg)
+
+<span id="care"></span>
+
+# Careful mode and careless mode!
+
+![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c1.jpg)
+
+![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c2.jpg)
 
 <span id="sl"></span>
 

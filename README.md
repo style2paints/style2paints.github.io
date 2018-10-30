@@ -16,7 +16,7 @@ The original image (before automatic coloring) is:
 
 ● [Save and load!](#sl)
 
-● [Official Twitter!](https://twitter.com/IlIIlIIIllIllII)
+● Official [Twitter](https://twitter.com/IlIIlIIIllIllII) and [Github](https://github.com/lllyasviel/style2paints)
 
 ● [FAQ](#faq)
 

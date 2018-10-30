@@ -169,7 +169,13 @@ You can use **cross** to **remove** light and shadow.
 
 # Careful mode and careless mode!
 
+In the newest version you have two coloring mode: careful mode and careless mode.
+
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c1.jpg)
+
+In **careful mode**, the AI will paint carefully, and the results are sharp and clean.
+
+In **careless mode**, the AI will paint in its own way, and the results are stylized and harmonious.
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c2.jpg)
 

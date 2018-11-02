@@ -168,7 +168,7 @@ Style2Paints V4 非常的好用！任何人都能在十分钟内学会！
 
 在细心模式 （**careful mode**）中，人工智能会细心的涂抹平滑，精细的颜色。但是这个模式下的人工智能会限制自我的发挥来迎合人类。
 
-在粗心模式 （**careful mode**）中，人工智能会自己发挥，但是可能细节上会出现丢失。同时可能人工智能会反抗你的提示。
+在粗心模式 （**careless mode**）中，人工智能会自己发挥，但是可能细节上会出现丢失。同时可能人工智能会反抗你的提示。
 
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c2.jpg)
 

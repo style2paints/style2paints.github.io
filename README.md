@@ -1,4 +1,10 @@
-﻿# Style2Paints V4 Tutorial
+﻿[English](https://style2paints.github.io/)
+
+[日本语](https://style2paints.github.io/README_ja)
+
+[简体中文](https://style2paints.github.io/README_zh)
+
+# Style2Paints V4 Tutorial
 
 [![all_in_one](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)
 

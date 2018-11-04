@@ -8,6 +8,8 @@
 
 [![all_in_one](https://github.com/lllyasviel/style2paints/raw/master/imgs/1cn.jpg)](https://github.com/lllyasviel/style2paints/raw/master/imgs/1cn.jpg)
 
+**部分中国用户使用流氓软件上网，例如qq浏览器/2345浏览器/360浏览器等下流公司私自篡改的Chrome浏览器会劫持用户的鼠标右键，并且强制用户使用他们的流氓功能“鼠标手势”，这导致您无法通过邮件拖拽移动画布。对于这些用户，请按下鼠标中键拖拽来移动画布。或者请卸载流氓浏览器，使用Chrome/Edge/Firefox/Opera等正统浏览器。**
+
 案例中上色之前的原图是:
 
 ![b](https://github.com/lllyasviel/style2paints/raw/master/imgs/sample.jpg)

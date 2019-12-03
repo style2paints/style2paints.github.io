@@ -6,7 +6,7 @@
 
 # Style2Paints V45 Tutorial
 
-[![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/cn.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/en.jpg)
+[![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/en.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/en.jpg)
 
 # Try it on your own!
 

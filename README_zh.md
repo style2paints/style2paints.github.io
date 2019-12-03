@@ -22,7 +22,7 @@ Style2Paints V45 非常的简单易用！你能够在几分钟内学会！
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/1.jpg)
 
-然后点击这里上传：
+然后点击这里导入：
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/2.jpg)
 

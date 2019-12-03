@@ -4,188 +4,54 @@
 
 [简体中文](https://style2paints.github.io/README_zh)
 
-# Style2Paints V4 Tutorial
+# Style2Paints V45 Tutorial
 
-[![all_in_one](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)](https://github.com/lllyasviel/style2paints/raw/master/imgs/1.jpg)
-
-The original image (before automatic coloring) is:
-
-![b](https://github.com/lllyasviel/style2paints/raw/master/imgs/sample.jpg)
-
-# Menu
-
-● [Try it on your own!](#stry)
-
-● [Control the Rendering Mode!](#scon) (HOT) (NEW)
-
-● [Careful mode and careless mode!](#care) (NEW)
-
-● [Save and load!](#sl)
-
-● Official [Twitter](https://twitter.com/IlIIlIIIllIllII) and [Github](https://github.com/lllyasviel/style2paints)
-
-● [FAQ](#faq)
-
-<span id="stry"></span>
+[![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/cn.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/en.jpg)
 
 # Try it on your own!
 
-Style2Paints V4 is extremely easy to use! You can be a style2paints expert in 10 minutes!
+Style2Paints V4 is very easy to use! You can be a style2paints expert in 10 minutes!
 
 First of all, let's download one lineart:
 
-![sketch](https://github.com/lllyasviel/style2paints/raw/master/imgs/2.jpg)
+![sketch](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/xg.jpg)
 
 *\*CC-BY-NC-SA-4.0 (c) Various artist of style2paints team, 2018. This image is OK for ACM/IEEE fair use.*
 
-You can right click this image and save the image. 
+You can right click this image and save the image:
 
-Or you may find lots of anime line arts from some where like these:
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/1.jpg)
 
-*(Be careful about copyright issues)*
+Then you may input the image:
 
-[https://www.pinterest.jp/810115sheepmea9/uncolored-anime-line-art/?lp=true](https://www.pinterest.jp/810115sheepmea9/uncolored-anime-line-art/?lp=true)
-
-[https://www.pinterest.jp/leonardohohofdp/lineart-anime/?lp=true](https://www.pinterest.jp/leonardohohofdp/lineart-anime/?lp=true)
-
-[https://www.pinterest.jp/professor_moore/anime-line-art/?lp=true](https://www.pinterest.jp/professor_moore/anime-line-art/?lp=true)
-
-[https://www.pinterest.jp/ssronniess/anime-lineart/?lp=true](https://www.pinterest.jp/ssronniess/anime-lineart/?lp=true)
-
-[https://www.pinterest.jp/XxZinnisterxX/anime-sketch/?lp=true](https://www.pinterest.jp/XxZinnisterxX/anime-sketch/?lp=true)
-
-[https://www.pinterest.jp/sour1854/anime-sketch/?lp=true](https://www.pinterest.jp/sour1854/anime-sketch/?lp=true)
-
-[https://www.pinterest.jp/hanisah0078/anime-sketch/?lp=true](https://www.pinterest.jp/hanisah0078/anime-sketch/?lp=true)
-
-
-Then you may upload the image:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/3.jpg)
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/2.jpg)
 
 Wait for 5 to 30 seconds, and you will see something like this:
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/4.jpg)
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/3.jpg)
 
-Then, you may select another AI artist:
+Then, you may select a well-suited color style:
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/5.jpg)
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/4.jpg)
 
-Then, you will find that the story becomes different:
+Then, you may select a well-suited coloring mode:
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/6.jpg)
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/5.jpg)
 
-You can zoom in and move the canvas freely to check the details:
+Then you get the initial results:
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/7.jpg)
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/6.jpg)
 
-You can make some modifications to this colorization by putting some hint points.
+Zoom in the canvas, PRESS your [Alt] key to enable the color picker, move it to some place where the skin color is basically correct, and release your [Alt] key to get that skin color:
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/7.jpg)
 
-You can click the processing button to update the result.
+Click the canvas to put the hints:
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/8.jpg)
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/8.jpg)
 
-**You can use ALT key to pick color anywhere in the canvas. This is very important.**
+Click here to coloring again.
 
-You can also check the flat solid basic color (固有色)：
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/8.5.jpg)
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/9.jpg)
-
-Then, click the **Rendering Mode**.
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/10.jpg)
-
-Wait for 5 to 30 seconds, you will get something like this:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/11.jpg)
-
-You may change the color of the light:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/12.jpg)
-
-Then, process:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/13.jpg)
-
-The result you will get:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/14.jpg)
-
-If you want to modify these rendering, you can use **circles** to **add** light and shadow, and use **cross** to **remove** light and shadow.
-
-Then, download:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/15.jpg)
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/16.jpg)
-
-You will get:
-
-Result:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a2.jpg)
-
-Result (no rendering):
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a1.jpg)
-
-Result (hue-satuation):
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a3.jpg)
-
-Result (lightness):
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a4.jpg)
-
-Rendering mask (You can use photoshop to **overlay** the image):
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a5.jpg)
-
-Flatten solid basic color:
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/a6.jpg)
-
-<span id="scon"></span>
-
-# Control the Rendering Mode!
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/12.jpg)
-
-Basicly speaking, you can control the color and the direction of the light in the **Rendering Mode**.
-
-We also provide more possibility for you to change the light and shadow.
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/17.jpg)
-
-You can use **circles** to **add** light and shadow.
-
-You can use **cross** to **remove** light and shadow.
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/18.jpg)
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/19.jpg)
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/20.jpg)
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/201.jpg)
-
-<span id="care"></span>
-
-# Careful mode and careless mode!
-
-In the newest version you have two coloring mode: careful mode and careless mode.
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c1.jpg)
-
-In **careful mode**, the AI will paint carefully, and the results are sharp and clean.
-
-In **careless mode**, the AI will paint in its own way, and the results are stylized and harmonious.
-
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/c2.jpg)
-
-<span id="sl"></span>
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/9.jpg)
 
 # Save and load!
 
@@ -204,10 +70,4 @@ And you can load these codes by clicking 'load' and pasting these codes:
 ![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/23.jpg)
 
 <span id="faq"></span>
-
-# FAQ
-
-Q: Why I can not export my results?
-
-A: Please use Edge/Chrome. Please do not use firefox.
 

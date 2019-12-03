@@ -4,41 +4,19 @@
 
 [简体中文](https://style2paints.github.io/README_zh)
 
-# Style2Paints V4 教程
+# Style2Paints V45 教程
 
 [![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/cn.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/cn.jpg)
 
-部分中国用户使用第三方浏览器，例如 **qq浏览器，2345浏览器，搜狗浏览器，360安全浏览器，360极速浏览器，UC浏览器** 等中国公司私自篡改国外技术的含有大量商业广告的低用户体验浏览器。这些流氓软件劫持用户的鼠标右键，并且强制用户使用“鼠标手势”，这导致您 **无法** 通过 **【鼠标右键】** 拖拽 **【移动画布】** 。对于这些中国用户，请 **【按住鼠标中键】** 拖拽来移动画布。或者请卸载流氓浏览器，使用 Chrome/Edge/Firefox/IE11 等正统浏览器享受高质量互联网。
-
-案例中上色之前的原图是:
-
-![b](https://github.com/lllyasviel/style2paints/raw/master/imgs/sample.jpg)
-
-# 目录
-
-● [自己试一试!](#stry)
-
-● [控制渲染模式!](#scon) (HOT) (NEW)
-
-● [细心模式和粗心模式!](#care) (NEW)
-
-● [保存和读取进度!](#sl)
-
-● 官方 [Twitter](https://twitter.com/IlIIlIIIllIllII) 和 [Github](https://github.com/lllyasviel/style2paints)
-
-● [FAQ](#faq)
-
-<span id="stry"></span>
-
 # 自己试一试!
 
-Style2Paints V4 非常的好用！任何人都能在十分钟内学会！
+Style2Paints V45 非常的简单易用！你能够在几分钟内学会！
 
 首先你需要下载一张线稿：
 
-![sketch](https://github.com/lllyasviel/style2paints/raw/master/imgs/2.jpg)
+![sketch](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/xg.jpg)
 
-*\*CC-BY-NC-SA-4.0 (c) Various artist of style2paints team, 2018. This image is OK for ACM/IEEE fair use.*
+*\*CC-BY-NC-SA-4.0 (c) Various artist of style2paints team, 2018. Refer this page for ACM/IEEE publication use.*
 
 你可以右键保存这一张图片。
 

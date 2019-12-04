@@ -4,7 +4,7 @@
 
 [简体中文](https://style2paints.github.io/README_zh)
 
-# Style2Paints V45 チュートリアル
+# Style2Paints V45 说明書
 
 [![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)
 

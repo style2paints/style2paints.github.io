@@ -6,7 +6,7 @@
 
 # Style2Paints V45 教程
 
-[![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/cn.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/cn.jpg)
+[![cn.jpg](https://i.loli.net/2019/12/07/Ln5dsIj3tmKAqBH.jpg)](https://i.loli.net/2019/12/07/Ln5dsIj3tmKAqBH.jpg)
 
 # 自己试一试!
 
@@ -14,45 +14,46 @@ Style2Paints V45 非常的简单易用！你能够在几分钟内学会！
 
 首先你需要下载一张线稿：
 
-![sketch](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/xg.jpg)
+![xg.jpg](https://i.loli.net/2019/12/07/pHOmb7nX2MivuVo.png)
 
 *\*CC-BY-NC-SA-4.0 (c) Various artist of style2paints team, 2018. Refer this page for ACM/IEEE publication use.*
 
 你可以右键保存这一张图片:
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/1.jpg)
+![1.jpg](https://i.loli.net/2019/12/07/wURDLvKsl9Cyiqh.jpg)
 
 然后点击这里导入：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/2.jpg)
+![2.jpg](https://i.loli.net/2019/12/07/UmiHNs3hOoYkGPJ.jpg)
 
 等待五到十秒之后，你会看见界面变成类似这样：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/3.jpg)
+![3.jpg](https://i.loli.net/2019/12/07/vzBV9kd6FmXHuqb.jpg)
 
 然后，选择一个合适的配色方案：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/4.jpg)
+![4.jpg](https://i.loli.net/2019/12/07/1XY5h8Hxd9AMfGr.jpg)
 
 然后，选择合适的上色模式：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/5.jpg)
+![5.jpg](https://i.loli.net/2019/12/07/f68QsIuhEA27RLZ.jpg)
 
 这样就得到了初步的上色结果：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/6.jpg)
+![6.jpg](https://i.loli.net/2019/12/07/v8iMkrcbJuPC29F.jpg)
 
 用鼠标滚动放大画布，然后【按住】键盘上的【Alt键】调出取色器，鼠标移动到皮肤颜色比较正确的部位，放开【Alt键】取出皮肤的颜色：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/7.jpg)
+![7.jpg](https://i.loli.net/2019/12/07/cqY7HCdfaLNh2gw.jpg)
+
 
 通过鼠标左键点击来在皮肤的部位增加提示点：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/8.jpg)
+![8.jpg](https://i.loli.net/2019/12/07/fmDQsJEH7VrOZGa.jpg)
 
 最后，点击这里重新上色：
 
-![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/9.jpg)
+![9.jpg](https://i.loli.net/2019/12/07/yOzmKefNS2XJxcP.jpg)
 
 # 保存和读取进度!
 

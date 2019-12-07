@@ -59,17 +59,17 @@ Style2Paints V45 非常的简单易用！你能够在几分钟内学会！
 
 你可以通过下面两个按钮来保存和读取你的当前进度：
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/21.jpg)
+![21.jpg](https://i.loli.net/2019/12/07/PlfXy1Tmj6HgNS5.jpg)
 
 当你点击“保存”后，你会得到类似下面的一大串代码，这些代码是你的所有提示点。
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/22.jpg)
+![22.jpg](https://i.loli.net/2019/12/07/3UHpBK6tDkVScom.jpg)
 
 你可以复制这些代码，然后随便你存在哪里。比如你可以桌面上新建一个记事本，然后存在记事本里面。或者word也可以。你甚至可以QQ或者微信把这个代码发送给别人。
 
 当你点击上传的时候，你可以粘贴这些代码，就像这样。然后你就可以把你的提示点全部恢复到你保存的时候的状态了！
 
-![imgs](https://github.com/lllyasviel/style2paints/raw/master/imgs/23.jpg)
+![23.jpg](https://i.loli.net/2019/12/07/dTMD48euUFYBOEG.jpg)
 
 <span id="faq"></span>
 

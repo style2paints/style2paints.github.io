@@ -18,11 +18,11 @@
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i02.jpg)
 
-3. Please try as much as possible color styles before you begin to put hint points.
+3. Please try as much as possible color styles (on the left) before you begin to put hint points.
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i03.jpg)
 
-4. If you are not professional color artists, please use the color picker to pick output colors instead of selecting colors from the palette.
+4. If you are not professional color artists, please use the color picker to pick AI output colors instead of selecting colors in the palette on your own.
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i04.jpg)
 

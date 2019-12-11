@@ -8,7 +8,25 @@
 
 [![cn.jpg](https://i.loli.net/2019/12/07/Ln5dsIj3tmKAqBH.jpg)](https://i.loli.net/2019/12/07/Ln5dsIj3tmKAqBH.jpg)
 
-# 自己试一试!
+# 最重要的事情！
+
+1. 请在导入图片后进行合理的裁剪。保证图片没有太多的留白区域。
+
+![i01.jpg](https://i.loli.net/2019/12/11/4Qd8rqw9eNmIba6.jpg)
+
+2. 请尽可能少的放置提示点。
+
+![i02.jpg](https://i.loli.net/2019/12/11/waKLMqdZDJkp57T.jpg)
+
+3. 请在放置提示点之前尽可能多的测试不同的颜色风格（在软件的左侧）。
+
+![i03.jpg](https://i.loli.net/2019/12/11/qigQdfH6UeYkMlR.jpg)
+
+4. 如果你不是很专业的颜色艺术家，请使用取色器来获取人工智能输出的颜色，而不是用调色板自己调色。
+
+![i04.jpg](https://i.loli.net/2019/12/11/XRrAGZwcT5l1hot.jpg)
+
+# 自己试一试！
 
 Style2Paints V45 非常的简单易用！你能够在几分钟内学会！
 

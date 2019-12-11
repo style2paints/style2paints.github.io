@@ -8,6 +8,24 @@
 
 [![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)
 
+# Most important things!
+
+1. Please do not leave too much blank space in your canvas. Please crop your images after importing.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i01.jpg)
+
+2. Please do not put too much hint points. The less hint points the better.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i02.jpg)
+
+3. Please try as much as possible color styles (on the left) before you begin to put hint points.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i03.jpg)
+
+4. If you are not professional color artists, please use the color picker to pick AI output colors instead of selecting colors in the palette on your own.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i04.jpg)
+
 # 自分で試してみましょう！
 
 Style2Paints V45は使い方は簡単ですから、数分で完全理解できる。

@@ -8,21 +8,21 @@
 
 [![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)
 
-# Most important things!
+# 最も重要なこと！
 
-1. Please do not leave too much blank space in your canvas. Please crop your images after importing.
+1.キャンバスに余白を残さないでください。 インポート後に画像をトリミングしてください。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i01.jpg)
 
-2. Please do not put too much hint points. The less hint points the better.
+2.ヒントポイントを入れすぎないでください。 ヒントが少なければ少ないほど良い。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i02.jpg)
 
-3. Please try as much as possible color styles (on the left) before you begin to put hint points.
+3.ヒントポイントを配置する前に、可能な限り色のスタイル（左側）を試してください。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i03.jpg)
 
-4. If you are not professional color artists, please use the color picker to pick AI output colors instead of selecting colors in the palette on your own.
+4.プロのカラーアーティストでない場合は、独自にパレットで色を選択する代わりに、カラーピッカーを使用してAI出力色を選択してください。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i04.jpg)
 

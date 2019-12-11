@@ -8,21 +8,21 @@
 
 [![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/jp.jpg)
 
-# 最も重要なこと！
+# S2P使用4つのコツ！
 
-1.キャンバスに余白を残さないでください。 インポート後に画像をトリミングしてください。
+1. 線画をアップロードして合理的にトリミングするこ。できるだけ不要な余白を切り抜きます。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i01.jpg)
 
-2.ヒントポイントを入れすぎないでください。 ヒントが少なければ少ないほど良い。
+2. できるだけコントロールポイントの使用を控えること。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i02.jpg)
 
-3.ヒントポイントを配置する前に、可能な限り色のスタイル（左側）を試してください。
+3. コントロールポイントを置く前に、できるだけ多くグローバル色調とスタイルをテストすること。（画面の左側）
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i03.jpg)
 
-4.プロのカラーアーティストでない場合は、独自にパレットで色を選択する代わりに、カラーピッカーを使用してAI出力色を選択してください。
+4. 使用者はプロではないの場合、ペンツールの色の調整はカラーパレットではなく、スポイトツールの使用を勧めます。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i04.jpg)
 

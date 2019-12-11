@@ -8,6 +8,24 @@
 
 [![all_in_one](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/en.jpg)](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/en.jpg)
 
+# Most important things!
+
+1. Please do not leave too much blank space in your canvas. Please crop your images after importing.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i01.jpg)
+
+2. Please do not put too much hint points. The less hint points the better.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i02.jpg)
+
+3. Please try as much as possible color styles before you begin to put hint points.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i03.jpg)
+
+4. If you are not professional color artists, please use the color picker to pick output colors instead of selecting colors from the palette.
+
+![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i04.jpg)
+
 # Try it on your own!
 
 Style2Paints V4 is very easy to use! You can be a style2paints expert in 10 minutes!

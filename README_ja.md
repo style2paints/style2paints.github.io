@@ -10,7 +10,7 @@
 
 # S2P使用4つのコツ！
 
-1. 線画をアップロードして合理的にトリミングするこ。できるだけ不要な余白を切り抜きます。
+1. 線画をアップロードして合理的にトリミングすること。できるだけ不要な余白を切り抜きます。
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i01.jpg)
 
@@ -18,7 +18,7 @@
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i02.jpg)
 
-3. コントロールポイントを置く前に、できるだけ多くグローバル色調とスタイルをテストすること。（画面の左側）
+3. コントロールポイントを置く前に、できるだけ多くのグローバル色調とスタイルをテストすること。（画面の左側）
 
 ![imgs](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/new_images/i03.jpg)
 

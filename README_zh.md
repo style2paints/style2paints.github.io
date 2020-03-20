@@ -4,6 +4,8 @@
 
 [简体中文](https://style2paints.github.io/README_zh)
 
+## 本软件完全免费，如果您在淘宝等某些店铺付费购买了软件，请立即退款并1星差评！
+
 # Style2Paints V45 教程
 
 [![cn.jpg](https://i.loli.net/2019/12/07/Ln5dsIj3tmKAqBH.jpg)](https://i.loli.net/2019/12/07/Ln5dsIj3tmKAqBH.jpg)

@@ -1,4 +1,6 @@
 ﻿[English](https://style2paints.github.io/)
+ 
+[Deutsch](https://style2paints.github.io/README_ger)
 
 [日本语](https://style2paints.github.io/README_ja)
 
